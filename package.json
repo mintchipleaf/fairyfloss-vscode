@@ -1,0 +1,21 @@
+{
+    "name": "fairyfloss",
+    "displayName": "fairyfloss complete",
+    "description": "complete UI & editor theme for visual studio code based on the editor theme by sailorhg (http://sailorhg.github.io/fairyfloss)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "fairyfloss complete",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fairyfloss-color-theme.json"
+            }
+        ]
+    }
+}
