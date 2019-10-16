@@ -1,4 +1,4 @@
-# fairyfloss vscode
+# fairyfloss vscode theme
 
 complete UI & editor theme for visual studio code based on the [fairyfloss editor theme](https://github.com/sailorhg/fairyfloss) by [sailorhg](https://github.com/sailorhg)
 

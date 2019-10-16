@@ -109,6 +109,7 @@
 		"merge.currentHeaderBackground": "#c2ffdf6e",
 		"merge.incomingHeaderBackground": "#b8a2ce8e",
 		"minimap.findMatchHighlight": "#f9f1588e",
+		"minimap.selectionHighlight": "#8077a8",
 		"panel.border": "#645e82",
 		"panelInput.border": "#645e82",
 		"panelTitle.activeBorder": "#958db8",
