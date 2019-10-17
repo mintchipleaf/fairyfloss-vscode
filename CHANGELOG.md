@@ -7,6 +7,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0) an
 ## [Unreleased]
 - Full terminal color theme
 
+## [0.0.4] - 2019-10-17
+## [Changed]
+- Updated screenshot
+
+## [0.0.3] - 2019-10-17
+## [Changed] 
+- Modified README
+- Cropped icon
+
 ## [0.0.2] - 2019-10-16
 ## [Added] 
 - VSCode Marketplace release
