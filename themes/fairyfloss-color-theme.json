@@ -149,6 +149,7 @@
 		"terminal.ansiRed": "#ff857f",
 		"terminal.ansiYellow": "#f9f158",
 		"terminal.foreground": "#f8f8f0",
+		"debugToolBar.background": "#3a364b",
 		"textBlockQuote.background": "#716799",
 		"textBlockQuote.border": "#c9e7d5",
 		"textLink.activeForeground": "#ff857f",

@@ -1,13 +1,11 @@
-# fairyfloss vscode theme
+complete ui & editor theme for visual studio code based on the [fairyfloss editor theme](https://github.com/sailorhg/fairyfloss) by [sailorhg](https://github.com/sailorhg)
 
-complete UI & editor theme for visual studio code based on the [fairyfloss editor theme](https://github.com/sailorhg/fairyfloss) by [sailorhg](https://github.com/sailorhg)
+this theme seeks to integrate the colors and feel of sailorhg's editor theme throughout vscode, while making the ui as minimally invasive as possible and prioritizing code readability.
 
-## installation
+---
+### full ui theme
+![screenshot of basic editor functions](/assets/screenshot_basic.png)
 
-this theme will not be available on the vscode marketplace until an icon and example screenshots have been added
 
-to install manually, copy this repository folder into
-```
-<user home>/.vscode/extensions
-```
-and restart vscode
+### git, intellisense, and peek support
+![screenshot of extra theme support](/assets/screenshot_extras.png)
