@@ -2,3 +2,5 @@
 /.vscode
 .vscodeignore
 
+#Compiled Files
+*.vsix

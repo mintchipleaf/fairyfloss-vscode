@@ -1,6 +1,4 @@
-complete ui & editor theme for visual studio code based on the [fairyfloss editor theme](https://github.com/sailorhg/fairyfloss) by [sailorhg](https://github.com/sailorhg)
-
-this theme seeks to integrate the colors and feel of sailorhg's editor theme throughout vscode, while making the ui as minimally invasive as possible and prioritizing code readability.
+this theme seeks to integrate the colors and feel of sailorhg's beautiful editor theme throughout vscode. it uses monochromatic purples to help the ui fade into the background, and prioritizes code readability with bright pastels.
 
 ---
 ### full ui theme
