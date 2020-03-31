@@ -2,7 +2,7 @@
     "name": "fairyfloss",
     "displayName": "fairyfloss complete",
     "description": "complete UI & editor theme for visual studio code based on the editor theme by sailorhg (http://sailorhg.github.io/fairyfloss)",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "mintchipleaf",
     "engines": {
         "vscode": "^1.12.0"
@@ -15,7 +15,8 @@
         "fairyfloss",
         "vscode",
         "pastel",
-        "cute"
+        "cute",
+        "monochrome"
     ], 
     "homepage": "https://github.com/mintchipleaf/fairyfloss-vscode/blob/master/README.md",
     "repository": {

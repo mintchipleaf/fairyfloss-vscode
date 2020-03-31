@@ -1,4 +1,5 @@
-this theme seeks to integrate the colors and feel of sailorhg's beautiful editor theme throughout vscode. it uses monochromatic purples to help the ui fade into the background, and prioritizes code readability with bright pastels.
+this theme seeks to integrate the colors and feel of sailorhg's beautiful editor theme throughout vscode
+uses monochromatic purples to help the ui fade into the background, while prioritizing code readability and important elements using bright pastels
 
 ---
 ### full ui theme

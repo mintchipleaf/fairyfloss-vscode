@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0) an
 
 ## [Unreleased]
 - Full terminal color theme
+- Symbol icon colors
+
+## [0.0.5] -
+## [Changed]
+- 1.40 new color definitions
+- 1.41 new color definitions
 
 ## [0.0.4] - 2019-10-17
 ## [Changed]
