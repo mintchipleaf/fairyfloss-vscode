@@ -8,6 +8,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0) an
 - Full terminal color theme
 - Symbol icon colors
 
+## [0.0.6] -
+## [Changed]
+- Fixed selection highlight contrast in search fields
+
 ## [0.0.5] -
 ## [Changed]
 - 1.40 new color definitions
