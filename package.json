@@ -31,7 +31,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "fairyfloss complete",
+                "label": "fairyfloss✨complete",
                 "uiTheme": "vs-dark",
                 "path": "./themes/fairyfloss-color-theme.json"
             }
