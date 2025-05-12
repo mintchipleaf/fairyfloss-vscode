@@ -13,8 +13,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0) an
 - Add missing input option color
 
 ### [Changed]
-- Update deprecated colors
 - Update existing terminal colors
+
+### [Fixed]
+- Fix highlight & gutter colors' transparency
 
 ## [0.0.6] - 2020-04-09
 ### [Changed]
