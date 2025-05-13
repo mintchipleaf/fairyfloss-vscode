@@ -1,6 +1,7 @@
 #VSCode Files
 /.vscode
 .vscodeignore
+*.code-workspace
 
 #Compiled Files
 *.vsix
