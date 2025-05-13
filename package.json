@@ -4,6 +4,7 @@
     "description": "complete UI & editor theme for visual studio code based on the editor theme by sailorhg (http://sailorhg.github.io/fairyfloss)",
     "version": "1.0.0",
     "publisher": "mintchipleaf",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.12.0"
     },

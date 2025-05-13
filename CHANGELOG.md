@@ -12,9 +12,9 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0) an
 - Add full terminal theming from [fairfloss terminal theme](https://gist.github.com/mintchipleaf/bd17682ec6ec0d11c90d7ff46fa4cdbe)
 - Add bracket highlight colors
 - Add missing input option color
+- Add extension page colors
 
 ### [Changed]
-
 - Update existing terminal colors
 
 ### [Fixed]
