@@ -13,11 +13,27 @@ jobs:
         with:
           node-version: 20
       - run: npm ci
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Package VS Code extension
+        id: package
+        uses: nhedger/package-vscode-extension@v1
+
+      - name: Upload binary to GitHub release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          file: ${{ steps.package.outputs.packagePath }} 
+          tag: ${{ github.ref }}
+          body: Please refer to [CHANGELOG.md](https://github.com/mintchipleaf/fairyfloss-vscode/blob/main/CHANGELOG.md) for details.
+          overwrite: true
+
       - name: Publish to Open VSX Registry
         uses: HaaLeo/publish-vscode-extension@v2
         id: publishToOpenVSX
         with:
           pat: ${{ secrets.OPEN_VSX_TOKEN }}
+
       - name: Publish to Visual Studio Marketplace
         uses: HaaLeo/publish-vscode-extension@v2
         with:
