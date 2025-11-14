@@ -28,3 +28,9 @@ monochrome purples help the ui fade into the background, while bright pastels su
 <center>
     <img src="https://github.com/mintchipleaf/fairyfloss-vscode/blob/master/assets/screenshot_extras.png?raw=true">
 </center>
+
+</br>
+
+---
+
+<h6 align="center">check out my terminal ports of fairyfloss <a href="https://gist.github.com/mintchipleaf/bd17682ec6ec0d11c90d7ff46fa4cdbe">here</a></h5>
