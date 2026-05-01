@@ -3,12 +3,7 @@
 </p>
 
 
-<h1 align="center">fairyfloss✨complete</h1>
-<p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=mintchipleaf.fairyfloss"><img src="https://img.shields.io/visual-studio-marketplace/i/mintchipleaf.fairyfloss?style=for-the-badge&labelColor=5A5475&color=c9e7d5"></a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=mintchipleaf.fairyfloss&ssr=false#review-details"><img src="https://img.shields.io/visual-studio-marketplace/stars/mintchipleaf.fairyfloss?style=for-the-badge&labelColor=5A5475&color=f9f158"></a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=mintchipleaf.fairyfloss"><img src="https://img.shields.io/visual-studio-marketplace/v/mintchipleaf.fairyfloss?style=for-the-badge&labelColor=5A5475&color=958db8"></a>
-</p>
+<h1 align="center">fairyfloss✨complete</h1>
 </br>
 
 <p align="center">
